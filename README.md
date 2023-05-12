@@ -1,8 +1,18 @@
-- Projek Ini adalah projek untuk test masuk di perusahaan PT. TIga Serangkai - 
+- Projek Ini adalah projek untuk test masuk di perusahaan PT. Tiga Serangkai - 
 
+# Deskripsi
 Projek ini dibuat untuk melihat data penulis, menginputkan data penulis, menghapus data penulis, dan menghapus data penulis. 
 Projek ini menggunakan framework Laravel dengan bahasa pemrograman php. 
 Sistem dari Projek Laravel ini hanyalah sebuah CRUD biasa dan koneksi ke dalam database. 
+
+# Screenshot
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/772be2dc-ec9a-404b-a3e8-882bd4a33895)
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/d0a1fe0d-2244-4613-ad81-4e0d77b3729f)
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/95fd0f0c-7a0c-4391-a79a-caaffff8069a)
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/167707fc-32b3-4df9-a2a9-f6cffccf11c2)
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/73f27e2b-1d35-4191-9124-df7845d5482d)
+![image](https://github.com/RakaSK/tes-rekrutmen/assets/58557156/0b8404a5-9cbd-4d26-a3a5-4093797dda4e)
+
 
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
